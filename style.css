@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(222, 104, 155); 
+    font-family: 'Times New Roman', Times, serif;
+    margin: 10px;
+    padding: 0px;
+  }
+  
+#cabecalho {
+    top: 0;
+    margin: 0px;
+    padding: 10px;
+  }
+  
+h1,h2 {
+   background-color: azure;
+  }
+  
+#licoes-aprendidas a:hover {
+    color: yellow;
+    margin: 10px;
+    padding: 10px;
+    border: 10px;
+}
+
+#vamos-aprender a:active {
+    color: yellow;
+    margin: 10px;
+    padding: 10px;
+    border: 10px;
+}
+ 
